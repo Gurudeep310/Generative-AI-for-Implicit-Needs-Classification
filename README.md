@@ -16,8 +16,11 @@ This Repository contains research work on "Generative AI for Implicit Needs Clas
 - Explored the intersection of AI and mental health to contribute to the field of generative AI research.
 
 **Project Contributors:**
+
 Muvvala N V Sai Gurudeep
+
 Sreevalli Yelisetti
+
 Rama Sai Pavan Kotipalli
 
 
